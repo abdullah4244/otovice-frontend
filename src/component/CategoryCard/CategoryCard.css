@@ -1,0 +1,21 @@
+.category-card {
+  width: 240px;
+  height: 244px;
+  top: 351px;
+  left: 72px;
+  gap: 0px;
+  border-radius: 10px;
+  background: #e7f5ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.category-card .title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.20000000298023224px;
+  text-align: center;
+  color: #59595b;
+}

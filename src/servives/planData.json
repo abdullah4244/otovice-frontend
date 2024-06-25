@@ -1,0 +1,54 @@
+{
+  "free": {
+    "planName": "Free",
+    "price": "$0",
+    "topics": "Limited",
+    "learnMode": "Limited",
+    "testMode": "Limited",
+    "support": "Community",
+    "exclusiveContent": "-",
+    "adminDashboard": "-",
+    "customRequests": "-",
+    "certifications": "-",
+    "planId": "price_1PRqZXGewho0TU5gTVmefTxT"
+  },
+  "student": {
+    "planName": "Student",
+    "price": "$9.99/month",
+    "topics": "All Topics",
+    "learnMode": "Unlimited",
+    "testMode": "10 simulations/mo",
+    "support": "Community",
+    "exclusiveContent": "-",
+    "adminDashboard": "-",
+    "customRequests": "-",
+    "certifications": "Yes",
+    "planId": "price_1PRArAGewho0TU5gw6Yuj9YJ"
+  },
+  "professional": {
+    "planName": "Professional",
+    "price": "$29.99/month",
+    "topics": "All Topics",
+    "learnMode": "Unlimited",
+    "testMode": "Unlimited",
+    "support": "Priority",
+    "exclusiveContent": "Yes",
+    "adminDashboard": "-",
+    "customRequests": "-",
+    "certifications": "Yes",
+    "planId": "price_1PS1D9Gewho0TU5guoHYwq3p"
+  },
+  "institutional": {
+    "planName": "Institutional",
+    "price": "Custom Pricing",
+    "topics": "All Topics",
+    "learnMode": "Unlimited",
+    "testMode": "Unlimited",
+    "support": "Dedicated",
+    "exclusiveContent": "Yes",
+    "adminDashboard": "Yes",
+    "customRequests": "Yes",
+    "certifications": "Yes",
+    "planId": "contact"
+  }
+}

@@ -1,0 +1,22 @@
+.plan-option-card {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1.25px solid #59595b;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 134px;
+  justify-content: space-between;
+}
+
+.ant-card-body {
+  width: 100% !important;
+}
+.empty-checkbox {
+  width: 30px;
+  height: 30px;
+  border: 2px solid #59595b;
+  border-radius: 50%;
+  background-color: transparent;
+}

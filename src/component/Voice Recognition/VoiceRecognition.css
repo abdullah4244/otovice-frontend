@@ -1,0 +1,24 @@
+.record-btn-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.record-btn-wrapper .record-btn {
+  all: unset;
+  width: max-content;
+  height: 45.41px;
+  border-radius: 10px;
+  background: #0e74bc;
+  font-size: 17.03px;
+  font-weight: 400;
+  line-height: 27.25px;
+  letter-spacing: -0.22706766426563263px;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  padding: 0px 12px;
+}
